@@ -6,7 +6,7 @@ public class Main {
         Grafo grafoLista = new Grafo();
 
         /**
-         * Se crean los vértices en cualquier orden, si se intenta crear un vértice
+         * Se crean los vértices en cualquier orden, si intenta crear un vértice
          * que ya existe, lo descarta.
          */
         grafoLista.nuevoVertice("1");

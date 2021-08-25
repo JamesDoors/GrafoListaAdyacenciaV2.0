@@ -7,7 +7,7 @@ public class Main {
 
         /**
          * Se crean los vértices en cualquier orden, si intenta crear un vértice
-         * que ya existe, lo descarta.
+         * que ya existe, lo descarta
          */
         grafoLista.nuevoVertice("1");
         grafoLista.nuevoVertice("4");
